@@ -1,0 +1,5 @@
+#!/bin/sh
+
+python NFA.py
+python nfa1.py $1
+
